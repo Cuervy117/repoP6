@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.pooo","c":"MiClase","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"mx.unam.fi.pooo","c":"MiClase","l":"MiClase()","u":"%3Cinit%3E()"}];updateSearchResults();
